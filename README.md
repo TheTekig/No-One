@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="docs/banner.png" alt="NO ONE Banner" width="100%">
+<img src="Github_Assets/banner.png" alt="NO ONE Banner" width="100%">
 
 <br><br>
 
